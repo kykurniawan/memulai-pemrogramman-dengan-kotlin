@@ -1,0 +1,234 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Break and Continue/Break/build/
+/Control Flow/Break and Continue/Break/build/classes/java/main/
+/Control Flow/Break and Continue/Continue/build/
+/Control Flow/Break and Continue/Continue/build/classes/java/main/
+/Control Flow/Break and Continue/Labels/build/
+/Control Flow/Break and Continue/Labels/build/classes/java/main/
+/Control Flow/Enumeration/All of Enum Object/build/
+/Control Flow/Enumeration/All of Enum Object/build/classes/java/main/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/classes/java/main/
+/Control Flow/Enumeration/Enum Object Value/build/
+/Control Flow/Enumeration/Enum Object Value/build/classes/java/main/
+/Control Flow/Enumeration/Enum Position/build/
+/Control Flow/Enumeration/Enum Position/build/classes/java/main/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Enumeration/Enumeration/build/classes/java/main/
+/Control Flow/Enumeration/Enumeration with When Expression/build/
+/Control Flow/Enumeration/Enumeration with When Expression/build/classes/java/main/
+/Control Flow/Enumeration/valueOf/build/
+/Control Flow/Enumeration/valueOf/build/classes/java/main/
+/Control Flow/Expression and Statement/Statement/build/
+/Control Flow/Expression and Statement/Statement/build/classes/java/main/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop/build/
+/Control Flow/Range and For loop/For Loop/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop Index/build/
+/Control Flow/Range and For loop/For Loop Index/build/classes/java/main/
+/Control Flow/Range and For loop/For Loop with Step Extension/build/
+/Control Flow/Range and For loop/For Loop with Step Extension/build/classes/java/main/
+/Control Flow/Range and For loop/ForEach/build/
+/Control Flow/Range and For loop/ForEach/build/classes/java/main/
+/Control Flow/Range and For loop/ForEachIndexed/build/
+/Control Flow/Range and For loop/ForEachIndexed/build/classes/java/main/
+/Control Flow/Range and For loop/Range/build/
+/Control Flow/Range and For loop/Range/build/classes/java/main/
+/Control Flow/Range and For loop/Range with `in` Operator/build/
+/Control Flow/Range and For loop/Range with `in` Operator/build/classes/java/main/
+/Control Flow/When Expression/When/build/
+/Control Flow/When Expression/When/build/classes/java/main/
+/Control Flow/When Expression/When subject/build/
+/Control Flow/When Expression/When subject/build/classes/java/main/
+/Control Flow/When Expression/When with Else block/build/
+/Control Flow/When Expression/When with Else block/build/classes/java/main/
+/Control Flow/When Expression/When with Range as a Condition/build/
+/Control Flow/When Expression/When with Range as a Condition/build/classes/java/main/
+/Control Flow/While and Do While/While/build/
+/Control Flow/While and Do While/While/build/classes/java/main/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 1/build/
+/Coroutines/Memulai Coroutine/Contoh 1/build/classes/java/main/
+/Data Class dan Collections/Collections/Collections/build/
+/Data Class dan Collections/Collections/Collections/build/classes/java/main/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Collections/Maps/build/classes/java/main/
+/Data Class dan Collections/Collections/Sets/build/
+/Data Class dan Collections/Collections/Sets/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/count/build/
+/Data Class dan Collections/Collections Operations/count/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/find/build/
+/Data Class dan Collections/Collections Operations/find/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/first/build/
+/Data Class dan Collections/Collections Operations/first/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/map/build/
+/Data Class dan Collections/Collections Operations/map/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/sorted/build/
+/Data Class dan Collections/Collections Operations/sorted/build/classes/java/main/
+/Data Class dan Collections/Data Class/Comparing data class/build/
+/Data Class dan Collections/Data Class/Comparing data class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Copying data class objects/build/
+/Data Class dan Collections/Data Class/Copying data class objects/build/classes/java/main/
+/Data Class dan Collections/Data Class/Data Class/build/
+/Data Class dan Collections/Data Class/Data Class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Destructuring Declarations/build/
+/Data Class dan Collections/Data Class/Destructuring Declarations/build/classes/java/main/
+/Data Class dan Collections/Data Class/Different data class with class/build/
+/Data Class dan Collections/Data Class/Different data class with class/build/classes/java/main/
+/Data Class dan Collections/Data Class/Modify the data class object/build/
+/Data Class dan Collections/Data Class/Modify the data class object/build/classes/java/main/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Latihan/latihan/build/classes/java/main/
+/Data Class dan Collections/Sequences/Sequences Initialization/build/
+/Data Class dan Collections/Sequences/Sequences Initialization/build/classes/java/main/
+/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/build/
+/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/build/classes/java/main/
+/Functional/Advanced Collection Function/Distinct/build/
+/Functional/Advanced Collection Function/Distinct/build/classes/java/main/
+/Functional/Advanced Collection Function/Drop/build/
+/Functional/Advanced Collection Function/Drop/build/classes/java/main/
+/Functional/Advanced Collection Function/Fold/build/
+/Functional/Advanced Collection Function/Fold/build/classes/java/main/
+/Functional/Advanced Collection Function/Slice/build/
+/Functional/Advanced Collection Function/Slice/build/classes/java/main/
+/Functional/Advanced Collection Function/Take/build/
+/Functional/Advanced Collection Function/Take/build/classes/java/main/
+/Functional/Extensions/Contoh 1/build/
+/Functional/Extensions/Contoh 1/build/classes/java/main/
+/Functional/Extensions/Contoh 2/build/
+/Functional/Extensions/Contoh 2/build/classes/java/main/
+/Functional/Extensions/Contoh 3/build/
+/Functional/Extensions/Contoh 3/build/classes/java/main/
+/Functional/Extensions/Contoh 4/build/
+/Functional/Extensions/Contoh 4/build/classes/java/main/
+/Functional/Function Type/Contoh 1/build/
+/Functional/Function Type/Contoh 1/build/classes/java/main/
+/Functional/Function Type/Contoh 2/build/
+/Functional/Function Type/Contoh 2/build/classes/java/main/
+/Functional/Lambda/Contoh 1/build/
+/Functional/Lambda/Contoh 1/build/classes/java/main/
+/Functional/Lambda/Contoh 2/build/
+/Functional/Lambda/Contoh 2/build/classes/java/main/
+/Functional/Lambda/Contoh 3/build/
+/Functional/Lambda/Contoh 3/build/classes/java/main/
+/Functional/Lambda/Contoh 4/build/
+/Functional/Lambda/Contoh 4/build/classes/java/main/
+/Functional/Lambda/Contoh 5/build/
+/Functional/Lambda/Contoh 5/build/classes/java/main/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/build/classes/java/main/
+/Functional/Library Helper/also/build/
+/Functional/Library Helper/also/build/classes/java/main/
+/Functional/Library Helper/apply/build/
+/Functional/Library Helper/apply/build/classes/java/main/
+/Functional/Library Helper/let/build/
+/Functional/Library Helper/let/build/classes/java/main/
+/Functional/Library Helper/run/build/
+/Functional/Library Helper/run/build/classes/java/main/
+/Functional/Library Helper/with/build/
+/Functional/Library Helper/with/build/classes/java/main/
+/Functional/Member References/Function References/build/
+/Functional/Member References/Function References/build/classes/java/main/
+/Functional/Member References/Property References/build/
+/Functional/Member References/Property References/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 1/build/
+/Functional/Named and Default Argument/Contoh 1/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 4/build/
+/Functional/Named and Default Argument/Contoh 4/build/classes/java/main/
+/Functional/Recursion/Tail Recursion/build/
+/Functional/Recursion/Tail Recursion/build/classes/java/main/
+/Functional/Scope Function with Lambda Receiver/run/build/
+/Functional/Scope Function with Lambda Receiver/run/build/classes/java/main/
+/Functional/Scope Function with Lambda Receiver/with/build/
+/Functional/Scope Function with Lambda Receiver/with/build/classes/java/main/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/build/classes/java/main/
+/Kotlin Fundamental/Boolean/Conjuction/build/
+/Kotlin Fundamental/Boolean/Conjuction/build/classes/java/main/
+/Kotlin Fundamental/Boolean/Disjunction/build/
+/Kotlin Fundamental/Boolean/Disjunction/build/classes/java/main/
+/Kotlin Fundamental/Boolean/Negation/build/
+/Kotlin Fundamental/Boolean/Negation/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Array Initialization/build/
+/Kotlin Fundamental/Data Type/Array Initialization/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Char in String/build/
+/Kotlin Fundamental/Data Type/Char in String/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Character/build/
+/Kotlin Fundamental/Data Type/Character/build/classes/java/main/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/Raw String/build/classes/java/main/
+/Kotlin Fundamental/Function/Function Initilization/build/
+/Kotlin Fundamental/Function/Function Initilization/build/classes/java/main/
+/Kotlin Fundamental/If Expression/If/build/
+/Kotlin Fundamental/If Expression/If/build/classes/java/main/
+/Kotlin Fundamental/If Expression/If Else If/build/
+/Kotlin Fundamental/If Expression/If Else If/build/classes/java/main/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/build/classes/java/main/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number Initilization/build/
+/Kotlin Fundamental/Numbers/Number Initilization/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number operation/build/
+/Kotlin Fundamental/Numbers/Number operation/build/classes/java/main/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/
+/Kotlin Fundamental/Numbers/Number with max and min values/build/classes/java/main/
+/Kotlin Fundamental/Numbers/String to Number/build/
+/Kotlin Fundamental/Numbers/String to Number/build/classes/java/main/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/classes/java/main/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/build/classes/java/main/
+/Kotlin Fundamental/String Template/String Template/build/
+/Kotlin Fundamental/String Template/String Template/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/classes/java/main/
+/Object-Oriented/Abstract Class/Contoh/build/
+/Object-Oriented/Abstract Class/Contoh/build/classes/java/main/
+/Object-Oriented/Classes/Contoh/build/
+/Object-Oriented/Classes/Contoh/build/classes/java/main/
+/Object-Oriented/Constructor/Contoh 1/build/
+/Object-Oriented/Constructor/Contoh 1/build/classes/java/main/
+/Object-Oriented/Constructor/Contoh 2/build/
+/Object-Oriented/Constructor/Contoh 2/build/classes/java/main/
+/Object-Oriented/Constructor/Contoh 3/build/
+/Object-Oriented/Constructor/Contoh 3/build/classes/java/main/
+/Object-Oriented/Constructor/Contoh 4/build/
+/Object-Oriented/Constructor/Contoh 4/build/classes/java/main/
+/Object-Oriented/Exception Handling/Contoh 1/build/
+/Object-Oriented/Exception Handling/Contoh 1/build/classes/java/main/
+/Object-Oriented/Exception Handling/Contoh 2/build/
+/Object-Oriented/Exception Handling/Contoh 2/build/classes/java/main/
+/Object-Oriented/Exception Handling/Contoh 3/build/
+/Object-Oriented/Exception Handling/Contoh 3/build/classes/java/main/
+/Object-Oriented/Extension Properties/Contoh/build/
+/Object-Oriented/Extension Properties/Contoh/build/classes/java/main/
+/Object-Oriented/Import dan Packages/Contoh 1/build/
+/Object-Oriented/Import dan Packages/Contoh 1/build/classes/java/main/
+/Object-Oriented/Import dan Packages/Contoh 2/build/
+/Object-Oriented/Import dan Packages/Contoh 2/build/classes/java/main/
+/Object-Oriented/Inheritances/Contoh/build/
+/Object-Oriented/Inheritances/Contoh/build/classes/java/main/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/build/classes/java/main/
+/Object-Oriented/Object Everywhere/Contoh 1/build/
+/Object-Oriented/Object Everywhere/Contoh 1/build/classes/java/main/
+/Object-Oriented/Object Everywhere/Contoh 2/build/
+/Object-Oriented/Object Everywhere/Contoh 2/build/classes/java/main/
+/Object-Oriented/Overloading/Contoh/build/
+/Object-Oriented/Overloading/Contoh/build/classes/java/main/
+/Object-Oriented/Properties/Contoh/build/
+/Object-Oriented/Properties/Contoh/build/classes/java/main/
+/Object-Oriented/Visibility Modifiers/private/build/
+/Object-Oriented/Visibility Modifiers/private/build/classes/java/main/
+/Object-Oriented/Visibility Modifiers/protected/build/
+/Object-Oriented/Visibility Modifiers/protected/build/classes/java/main/
+/Object-Oriented/Visibility Modifiers/public/build/
+/Object-Oriented/Visibility Modifiers/public/build/classes/java/main/
